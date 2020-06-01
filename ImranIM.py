@@ -56,7 +56,7 @@ logo = """
 \033[1;96m         ____) | |_) |  __/  __/ (_| | |
 \033[1;96m        |_____/| .__/ \___|\___|\__,_|_|
 \033[1;96m               | |                      
-\033[1;96m               |_|   Aahil Updated 0.3                   
+\033[1;96m               |_|   Imran Updated 0.3                   
 \033[1;91m       ♦♦♦———————————————————————————————♦♦♦
 """
 def tik():
@@ -66,8 +66,8 @@ def tik():
 
 
 back = 0
-berhasil = []
-cekpoint = []
+Ok = []
+CP = []
 oks = []
 id = []
 listgrup = []
@@ -76,16 +76,19 @@ vuln = "\033[32mVuln"
 
 os.system("clear")
 print  """
-
-\033[1;97m        ___    ___   _   _ _____ _     
-\033[1;92m       / _ \  / _ \ | | | |_   _| | Updated✔ 
-\033[1;97m      / /_\ \/ /_\ \| |_| | | | | |    
-\033[1;92m      |  _  ||  _  ||  _  | | | | |    
-\033[1;97m      | | | || | | || | | |_| |_| |____
-\033[1;97m      \_| |_/\_| |_/\_| |_/\___/\_____/
                                                                
+"\033[1;97m  ▅▅▅▅▅▅▅▅▅▅▅
+"\033[1;97m  ▅▅▅▅▅▅▅
+"\033[1;97m  ▅▅▅▅▅▅
+"\033[1;97m  ▅▅▅▅
+"\033[1;97m  ◥◤
+"\033[1;97m ★❍Iɱʀʌŋ❍★
+ "\033[1;97m ◢◣ 
+ "\033[1;97m  ▅▅▅▅
+ "\033[1;97m  ▅▅▅▅▅▅
+  "\033[1;97m ▅▅▅▅▅▅▅▅
+ "\033[1;97m  ▅▅▅▅▅▅▅▅▅▅▅
 
-"""
 
 jalan("\033[1;97m•◈•───────•◈ NOT A NAME ITS BRAND •◈•───────•◈•")  
 
@@ -100,12 +103,12 @@ jalan("\033[1;96m•◈• |_____/|_|    |______|______|_____/_____|")
 jalan("   \033[1;91m INDAIN USERZ USE ANY PROXY ")	
 jalan("   \033[1;91m WIFI USERZ USE ANY PROXY ")	
 
-jalan("   \033[1;93m Welcome to Aahil Creations ")
+jalan("   \033[1;93m Welcome to Imranm Creations ")
 
 jalan("\033[1;97m•◈•──────────•◈•\033[1;96mBlacktiger\033[1;96m•◈•──────────•◈•")
 
-CorrectUsername = "rana"
-CorrectPassword = "rana"
+CorrectUsername = "Imran"
+CorrectPassword = "ImranIM"
 
 
 loop = 'true'
